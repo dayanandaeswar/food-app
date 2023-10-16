@@ -1,0 +1,7 @@
+{
+  "name": "keervit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
